@@ -225,3 +225,8 @@ figure {
   color: white;
   background-color: lightseagreen;
 }
+
+.film-subtitle {
+  position:relative;
+  top: 400px;
+}
